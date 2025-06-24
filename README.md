@@ -9,17 +9,20 @@
 
 
 <h3 align="center">I am a Coder...</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
+<img align="right" alt="Coding" width="400" 
+     src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" 
+     style="margin-top: 35px;">
 
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumik-r&label=Profile%20views&color=0e75b6&style=flat" alt="soumik-r" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+ 
+ - <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" alt="AI" width="22" style="vertical-align: middle;"> Ask me about <strong>AI/ML</strong>
+ - <img src="https://cdn.dribbble.com/userupload/22540007/file/original-ef0921c5e0334e0e490be9e5c7151265.gif" alt="AI" width="22" style="vertical-align: middle;"> Ask me about <strong>Web-Dev</strong>
+- <img src="https://repository-images.githubusercontent.com/591060405/eaf4564a-72d3-461c-b651-eec7a68b53b5" alt="AI" width="22" style="vertical-align: middle;"> Ask me about <strong>DSA</strong>
+- <img src="https://i.pinimg.com/originals/5d/a0/4f/5da04f8387ab1bea3f9f11296902c6d2.gif" alt="AI" width="22" style="vertical-align: middle;"> Ask me about <strong>DEEP LEARNING</strong>
+- <img src="https://miro.medium.com/v2/resize:fit:300/1*Bae4dDfpgVJJVeSPhKkrfQ.gif" alt="AI" width="14" style="vertical-align: middle;"> Ask me about <strong>JAVA</strong>
 
-- 🌱 I’m currently learning **MERN, DSA**
 
-- 💬 Ask me about **AI/ML**
 
 - 📫 How to reach me **me.soumikr@gmail.com**
 
