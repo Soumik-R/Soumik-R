@@ -16,9 +16,7 @@
 
 - 💬 Ask me about *ReactJS, NodeJs, FrontEnd*
 
-- 📫 How to reach me *jatinsharma14202003@gmail.com*
-
-- ⚡ Fun fact *I am funny*
+- 📫 How to reach me *me.soumikr@gmail.com*
 
 <br/>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
