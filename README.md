@@ -8,7 +8,7 @@
   <img align="right" width="28%" src="https://owlbertsio-resized.s3.amazonaws.com/Popper.psd.full.png">
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin5760&label=Profile%20views&color=0e75b6&style=flat" alt="jatin5760" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Roy5760&label=Profile%20views&color=0e75b6&style=flat" alt="Roy5760" /> </p>
 
 - 🔭 I’m currently working on *FlavorlyIndia* which is a food delivery app (MERN stack)
 
@@ -37,8 +37,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/jatinsharma14_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jatinsharma14_" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/jatin-sharma14/" target="blank">
+<a href="https://instagram.com/Roysharma14_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Roysharma14_" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/Roy-sharma14/" target="blank">
     <img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="your_linkedin_username" height="30" width="40" />
   </a>
 </p>
@@ -51,10 +51,10 @@
 
 # <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆
 <p align="center">
-  <a href="https://github.com/Jatin5760">
+  <a href="https://github.com/Roy5760">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Jatin5760&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Jatin5760&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Roy5760&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Roy5760&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
       <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Kiran1689&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
     </picture>
   </a>
@@ -70,16 +70,16 @@
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Jatin5760">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jatin5760&count_private=true&show_icons=true&bg_color=0f0f0f&title_color=ff4444&text_color=ff6666&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&icon_color=ff3333" alt="GitHub Stats" />
+        <a href="https://github.com/Roy5760">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Roy5760&count_private=true&show_icons=true&bg_color=0f0f0f&title_color=ff4444&text_color=ff6666&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&icon_color=ff3333" alt="GitHub Stats" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Jatin5760">
-          <img align="center" src="https://streak-stats.demolab.com?user=Jatin5760&background=0f0f0f&fire=ff4444&ring=ff3333&sideNums=ff6666&sideLabels=ff6666&dates=ff8888&currStreakNum=ff2222" alt="Streak Stats" />
+        <a href="https://github.com/Roy5760">
+          <img align="center" src="https://streak-stats.demolab.com?user=Roy5760&background=0f0f0f&fire=ff4444&ring=ff3333&sideNums=ff6666&sideLabels=ff6666&dates=ff8888&currStreakNum=ff2222" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -88,16 +88,16 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/Jatin5760/FlavorlyIndia-project-MERN-">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Jatin5760&repo=FlavorlyIndia-project-MERN-&bg_color=0f0f0f&title_color=ff4444&text_color=ff6666&show_owner=true&icon_color=ff3333" alt="Awesome-Dev-Portfolios" />
+        <a href="https://github.com/Roy5760/FlavorlyIndia-project-MERN-">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Roy5760&repo=FlavorlyIndia-project-MERN-&bg_color=0f0f0f&title_color=ff4444&text_color=ff6666&show_owner=true&icon_color=ff3333" alt="Awesome-Dev-Portfolios" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Jatin5760">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Jatin5760&limit=2&bg_color=0f0f0f&title_color=ff4444&text_color=ff6666&show_owner=true&combine_all_yearly_contributions=false" alt="Top Repo" />
+        <a href="https://github.com/Roy5760">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=Roy5760&limit=2&bg_color=0f0f0f&title_color=ff4444&text_color=ff6666&show_owner=true&combine_all_yearly_contributions=false" alt="Top Repo" />
         </a>
       </p>
     </td>
@@ -109,7 +109,7 @@
 
 # <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jatin5760&bg_color=0f0f0f&color=ff0000&line=cc0000&point=ff9999&area=false&hide_border=false" style="border-radius: 15px;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Roy5760&bg_color=0f0f0f&color=ff0000&line=cc0000&point=ff9999&area=false&hide_border=false" style="border-radius: 15px;">
 </div>
 
 <p align="center">
