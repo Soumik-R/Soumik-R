@@ -37,8 +37,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/Roysharma14_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Roysharma14_" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/Roy-sharma14/" target="blank">
+<a href="https://instagram.com/soumik.roy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Roysharma14_" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/mesoumikr/" target="blank">
     <img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="your_linkedin_username" height="30" width="40" />
   </a>
 </p>
