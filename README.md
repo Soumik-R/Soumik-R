@@ -16,7 +16,7 @@
 
 - 💬 Ask me about *ReactJS, NodeJs, FrontEnd*
 
-- 📫 How to reach me *me.soumikr@gmail.com*
+- 📫 How to reach me *me.Jatinr@gmail.com*
 
 <br/>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -37,8 +37,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/soumik.roy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Roysharma14_" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/mesoumikr/" target="blank">
+<a href="https://instagram.com/Jatin.roy_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Roysharma14_" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/meJatinr/" target="blank">
     <img align="center" src="https://www.svgrepo.com/show/157006/linkedin.svg" alt="your_linkedin_username" height="30" width="40" />
   </a>
 </p>
