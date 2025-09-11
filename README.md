@@ -55,20 +55,6 @@
 
 ---
 
-# <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif" width="30"/> I'm Jatin Sharma
-<h3 align="left">Full Stack Developer | React Native Enthusiast | MERN Stack | DevOps Explorer</h3>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jatin5760&label=Profile%20views&color=0e75b6&style=flat" alt="jatin5760" /> </p>
-
-- 🔭 I’m currently working on *FlavorlyIndia* (MERN stack food delivery app)  
-- 🌱 I’m currently learning *NextJs*  
-- 💬 Ask me about *ReactJS, NodeJs, FrontEnd*  
-- 📫 How to reach me *jatinsharma14202003@gmail.com*  
-- ⚡ Fun fact *I am funny*  
-
----
-
 # <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">  Tᴇᴄʜ sᴛᴀᴄᴋ & Lᴀᴛᴇsᴛ ʙʟᴏɢs
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./Skills_Animation_Dark.gif">
@@ -91,16 +77,6 @@
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/Jatin5760">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=Jatin5760&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=Jatin5760&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=Kiran1689&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
-  </a>
-</p>
-
 ---
 
 # <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="40" /> Gɪᴛʜᴜʙ Sᴛᴀᴛs 📊
@@ -109,16 +85,16 @@
     <td width="50%">
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Jatin5760">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jatin5760&count_private=true&show_icons=true&bg_color=0f0f0f&title_color=ff4444&text_color=ff6666&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&icon_color=ff3333" alt="GitHub Stats" />
+        <a href="https://github.com/soumik-r">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=soumik-r&count_private=true&show_icons=true&bg_color=0f0f0f&title_color=ff4444&text_color=ff6666&rank_icon=github&hide=prs,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&icon_color=ff3333" alt="GitHub Stats" />
         </a>
       </p>
     </td>
     <td width="50%">
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
-        <a href="https://github.com/Jatin5760">
-          <img align="center" src="https://streak-stats.demolab.com?user=Jatin5760&background=0f0f0f&fire=ff4444&ring=ff3333&sideNums=ff6666&sideLabels=ff6666&dates=ff8888&currStreakNum=ff2222" alt="Streak Stats" />
+        <a href="https://github.com/soumik-r">
+          <img align="center" src="https://streak-stats.demolab.com?user=soumik-r&background=0f0f0f&fire=ff4444&ring=ff3333&sideNums=ff6666&sideLabels=ff6666&dates=ff8888&currStreakNum=ff2222" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -129,7 +105,7 @@
 
 # <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />Cᴏɴᴛʀɪʙᴜᴛɪᴏɴ Gʀᴀᴘʜ 📈
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jatin5760&bg_color=0f0f0f&color=ff0000&line=cc0000&point=ff9999&area=false&hide_border=false" style="border-radius: 15px;">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=soumik-r&bg_color=0f0f0f&color=ff0000&line=cc0000&point=ff9999&area=false&hide_border=false" style="border-radius: 15px;">
 </div>
 
 <p align="center">
